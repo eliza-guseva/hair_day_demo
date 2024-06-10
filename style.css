@@ -65,7 +65,7 @@ body {
     padding: 1rem;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 430px) {
     .nav_bar_items {
         flex-direction: column;
     }
@@ -174,7 +174,7 @@ article {
         height: 500px;
     }
 }
-@media screen and (max-width: 400px){
+@media screen and (max-width: 430px){
     .service_image {
         border-radius: 50%;
         width: 40%;
@@ -209,7 +209,7 @@ footer {
     height: 5vh;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 430px) {
     section {
         flex-direction: column;
     }
